@@ -1,6 +1,0 @@
-
-/** "Component" **/
-
-public interface ProdutoComponent {
-
-}

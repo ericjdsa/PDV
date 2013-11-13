@@ -1,3 +1,9 @@
+package FactoryMethod;
+
+import Composite.ProdutoComponent;
+import Composite.KitProduto;
+
+
 
 public class KitProdutoFactory implements ProdutoComponentFactory {
 	
